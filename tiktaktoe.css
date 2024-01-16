@@ -1,0 +1,21 @@
+.main{
+   width: 330px;
+   height: 330px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: rgb(13, 112, 29);
+   flex-wrap: wrap;
+   margin: auto;
+}
+.item{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+   width: 100px;
+   height: 100px;
+   margin: 5px;
+   background-color: rgb(40, 198, 198);
+   font-size: 40px;
+}
